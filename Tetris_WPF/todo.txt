@@ -1,0 +1,8 @@
+﻿/* TODO:
+ * - implement lock delay
+ * - add combo bonus
+ * - extend scoring system
+ * - show points awarded message in mainwindow
+ * - add endless mode using old speed formula (level n forever?), level n selectable (as max)
+ * - lock and check lines before checking stacking height
+ */

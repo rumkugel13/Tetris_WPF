@@ -1,0 +1,55 @@
+﻿/* Changelog:
+ * 
+ * 0.16.0 (12.10.2018):
+ * - Implement wall kicks with data from guideline
+ * 0.15.4 (07.10.2018):
+ * - Move stats to own class, using MVVM to display in UI
+ * 0.15.3 (06.10.2018):
+ * - Add Stopwatch
+ * 0.15.2 (06.10.2018):
+ * - Points for Soft / Hard drop
+ * - Drop new piece to 20 if able
+ * - Fixed bug where you could move a piece after initiating a hard drop
+ * - Code refactoring
+ * 0.15.1 (05.10.2018):
+ * - Info close button on same position as info button
+ * 0.15.0 (04.10.2018):
+ * - Add official timing formula (currently disabled)
+ * - Remove Messagebox for game over/won
+ * - Gameover/won message now in mainwindow
+ * - New Info Screen
+ * 0.14.0b (04.10.2018):
+ * - Unified Changecolor Method
+ * - Add Hold Box in UI
+ * - Unified(ish) TurnPieceOn/Off Methods
+ * - Implement Hold Piece
+ * 0.13.0b (04.10.2018):
+ * - Remove run method in favor of Timer, game is now faster
+ * 0.12.0 (30.09.2018):
+ * - Random Bag Order according to Guideline
+ * 0.11.0 (30.09.2018):
+ * - Controls now Tetris Guideline compliant
+ * - Enable RotateCCW
+ * - Enable Hard Drops
+ * - Implement Ghost Piece
+ * 0.10.0 (30.09.2018):
+ * - Restructure code for easier future updates
+ * - Small bugfixes
+ * 0.9.10 (29.09.2018):
+ * - Do not allow same piece twice successively (behind each other)
+ * 0.9.9 (24.09.2018):
+ * - Block Rotation now SRS conform
+ * - Adjusted Points reward system
+ * - Changed "Rows" to "Lines"
+ * - Level now changes after 10 Lines cleared
+ * 0.9.8.1 (06.07.2018):
+ * - Changed height to 20
+ * - Changed UI Language to english
+ * 0.9.8 (29.10.2016):
+ * - Changed all block colors
+ * - Removed dependency of Blocks
+ * 0.9.7 (28.10.2016):
+ * - Changed WindowStyle to Windows WindowStyle (no mo' statusbar)
+ * 0.9.6 (28.10.2016):
+ * - Removed maximize from statusbar
+ */
