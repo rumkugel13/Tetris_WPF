@@ -9,8 +9,11 @@ This version mostly follows the [Tetris Guideline](https://tetris.wiki/Tetris_Gu
 # Build Instructions
 
 ## Requirements
-.Net Framework 4.5\
-Visual Studio 2013+ or Visual Studio Code
+- Windows 7+
+- .Net Framework 4.5+
+- Visual Studio 2013+ or Visual Studio Code
 
 ## Build
-Open solution in VS or VScode and build
+1. Clone this repository
+2. Open solution file in Visual Studio
+3. Build the solution
