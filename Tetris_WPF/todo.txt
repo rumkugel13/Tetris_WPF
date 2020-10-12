@@ -1,5 +1,7 @@
 ﻿/* TODO:
  * - implement lock delay
+ * - t-spin detection
+ * - correct timer values
  * - add combo bonus
  * - extend scoring system
  * - show points awarded message in mainwindow
